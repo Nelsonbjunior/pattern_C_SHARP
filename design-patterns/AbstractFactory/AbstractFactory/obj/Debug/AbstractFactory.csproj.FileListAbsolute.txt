@@ -1,0 +1,9 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\design-patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\design-patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\design-patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\design-patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\design-patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
